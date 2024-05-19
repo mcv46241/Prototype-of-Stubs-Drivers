@@ -6,7 +6,7 @@ The stub is used for simulating the behavior of an external system that provides
 The driver to test the ShoppingCart class using the stubbed ItemPriceService.
 
 In this example:
-The ShoppingCart class calculates the total price of items in the shopping cart based on the prices provided.
-The ItemPriceServiceStub simulates an external service that provides item prices. It returns fixed prices for known items.
-The ShoppingCartDriver class serves as a driver to test the ShoppingCart class using the stubbed ItemPriceService.
+1. The ShoppingCart class calculates the total price of items in the shopping cart based on the prices provided.
+2. The ItemPriceServiceStub simulates an external service that provides item prices. It returns fixed prices for known items.
+3. The ShoppingCartDriver class serves as a driver to test the ShoppingCart class using the stubbed ItemPriceService.
 
