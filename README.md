@@ -13,7 +13,9 @@ In this example:
 In real time the actual prices are obtained from thrid party sources / the values are obtained from different service DB, however in the above case we have mocked the prices using stubs.
 
 In order to execute the code - first compile the code:
+
 **javac ShoppingCart.java ItemPriceServiceStub.java ShoppingCartDriver.java**
 
 Then execute the driver class using the java command:
+
 **java ShoppingCartDriver**
